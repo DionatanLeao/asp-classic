@@ -11,7 +11,7 @@
         <ul style="list-style-type: none;">
           <li>CONVENIADOS</li>
           <li><a href="conveniados_inclusao_index.asp">Incluir</a></li>
-          <li><a href="">Editar</a></li>
+          <li><a href="conveniados_edicao_lista.asp">Editar</a></li>
           <li><a href="">Excluir</a></li>
         </ul>
 

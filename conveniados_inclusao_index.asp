@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+    <%@LANGUAGE="VBSCRIPT" CODEPAGE="65001"%>
 <html>
   <head>
     <title>Controle de Processos</title>
