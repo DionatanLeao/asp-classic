@@ -28,10 +28,10 @@
         %>
 
         <tr>
-            <td><a href="conveniados_edicao_index.asp?cod_conveniado1=<% = rsListaConveniados.Fields("Codigo") %>">
+            <td><a href="conveniados_exclusao.asp?cod_conveniado1=<% = rsListaConveniados.Fields("Codigo") %>">
                 <% = rsListaConveniados.Fields("Codigo") %></a></td>
-            <td><a href="conveniados_edicao_index.asp?cod_conveniado1=<% = rsListaConveniados.Fields("Codigo") %>">
-              <% = rsListaConveniados.Fields("Nome_Conveniado") %></a></td>
+            <td><a href="conveniados_exclusao.asp?cod_conveniado1=<% = rsListaConveniados.Fields("Codigo") %>">
+                <% = rsListaConveniados.Fields("Nome_Conveniado") %></a></td>
             <td><% = rsListaConveniados.Fields("CPF_Conveniado") %></td>
             <td><% = rsListaConveniados.Fields("Convenio") %></td>
             <td><% = rsListaConveniados.Fields("Usuario") %></td>
